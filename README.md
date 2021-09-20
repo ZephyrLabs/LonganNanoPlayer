@@ -51,3 +51,7 @@ replace this file on the TF card and run!
 ### how to create custom logo.bin
 take any 160x80 image you wish to use as your logo, and run it through [binary converter tool online](https://www.lvgl.io/tools/imageconverter) make sure the output name is logo.bin, and format as RGB565 (no swap)
 
+Credits:
+1. https://www.mikrozone.sk/pluginy/content/content.php?content.148
+2. High speed LCD driver library: https://github.com/slmisc/gd32v-lcd
+3. Longan Nano example (used for fatfs library): https://github.com/sipeed/Longan_GD32VF_examples
