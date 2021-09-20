@@ -52,7 +52,7 @@ after running the genhex.py script, the bmp.bin file will mostly be located in t
 replace this file on the TF card and run!
 
 ### how to create custom logo.bin
-take any 160x80 image you wish to use as your logo, and run it through [binary converter tool online](https://www.lvgl.io/tools/imageconverter) make sure the output name is logo.bin, and format as RGB565 (no swap)
+take any 160x80 image you wish to use as your logo, and run it through [binary converter tool online](https://www.lvgl.io/tools/imageconverter) make sure the output name is logo.bin, and format as RGB565 (swap)
 
 Credits:
 1. https://www.mikrozone.sk/pluginy/content/content.php?content.148
