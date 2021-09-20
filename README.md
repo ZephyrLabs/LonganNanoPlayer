@@ -11,6 +11,10 @@ in the root directory.
 
 insert the card in the TF slot located on the underside of the board, and power on to see the video being played.
 
+### Video sample:
+
+<iframe  title="YouTube video player" width="480" height="390" src="https://youtu.be/0jen1GfX6a0?autoplay=1" frameborder="0" allowfullscreen></iframe>
+
 ### how to create custom video/bmp.bin
 
 The custom bin file is produced by taking the raw binary data from uncompressed images and stitching them together, and
